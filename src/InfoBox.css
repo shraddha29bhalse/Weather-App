@@ -1,0 +1,8 @@
+.infp-box{
+    text-align: center;
+}
+
+.card-contain{
+    display: flex;
+    justify-content: center;
+}
